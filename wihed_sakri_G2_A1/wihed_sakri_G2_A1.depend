@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1684754681 source:c:\users\t14 gen1\desktop\wihed_sakri_g2_a1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"exam_header.h"
+
+1684754969 c:\users\t14 gen1\desktop\wihed_sakri_g2_a1\exam_header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
